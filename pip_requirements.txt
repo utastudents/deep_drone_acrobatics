@@ -14,5 +14,5 @@ pyqt5==5.13.2
 catkin-pkg==0.4.14
 rospkg==1.1.10
 opencv_python==4.2.0
-scipy==1.4.1
+scipy==1.10.0
 
